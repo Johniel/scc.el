@@ -1,4 +1,5 @@
 # Switch Cursor Color
+dash.el が必要です
 
 ## Example
 
